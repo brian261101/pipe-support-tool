@@ -12,6 +12,11 @@ tải tối đa chịu được, và đề xuất về hình dáng support.
 
 ---
 
+**Bản chạy thẳng trong trình duyệt (không cần cài gì):**
+[brian261101.github.io/pipe-support-web](https://brian261101.github.io/pipe-support-web/)
+— mã nguồn ở repo [pipe-support-web](https://github.com/brian261101/pipe-support-web).
+Cùng một lõi tính toán, cho kết quả trùng khớp đến từng chữ số.
+
 ## Chạy chương trình
 
 **Không cần cài thêm bất cứ thư viện nào.** Chỉ cần Python 3.10 trở lên, bản cài
