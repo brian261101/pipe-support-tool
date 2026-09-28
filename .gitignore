@@ -1,0 +1,8 @@
+# san pham dong goi - phat hanh qua GitHub Releases, khong commit vao repo
+build/
+dist/
+*.spec
+
+__pycache__/
+*.pyc
+*.pyo
